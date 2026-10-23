@@ -1,0 +1,39 @@
+package revisaosemana4;
+
+public class //Questão 2: SOLID
+//Para cada código abaixo, diga qual princípio do SOLID está sendo violado e explique como você corrigiria.
+
+       // a)
+//java
+//class Relatorio {
+   // void calcularTotais() { /* ... */ }
+    //void formatarEmPdf() { /* ... */ }
+    //void salvarNoDisco() { /* ... */ }
+    //void enviarPorEmail() { /* ... */ }
+//R:
+
+//}
+
+//b)
+//java
+//class EnviadorEmail {
+  //  void enviar(String tipo) {
+    //    if (tipo.equals("aniversario")) {
+      //      System.out.println("Feliz aniversário!");
+        //} else if (tipo.equals("seguranca")) {
+          //  System.out.println("Alerta de segurança!");
+        //} else if (tipo.equals("promocao")) {
+          //  System.out.println("Promoção imperdível!");
+        //}
+    //}
+//}
+
+//c)
+//java
+//class PedidoService {
+  //  private MySQLRepositorio repo = new MySQLRepositorio();
+
+    //void finalizar() {
+      //  repo.salvar();
+    //}
+//}}
