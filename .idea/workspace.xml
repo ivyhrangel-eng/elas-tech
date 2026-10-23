@@ -5,10 +5,41 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="974f2843-5b20-4de5-9b2b-253499cfe59c" name="Changes" comment="Criado classes novas dos dias 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Petshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Servicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia14/Encapsulamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia17/Singleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia20/Bebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia20/Brinquedos.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia20/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia20/Mainbebe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/BancodeDados/BancoDeDados.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/BancodeDados/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/BancodeDados/MySQL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/BancodeDados/Oracle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/atividade1factory/Agendamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/atividade1factory/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade3_animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade3_animalfactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade3_cachorro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade3_gato.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade4e5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade6_pagamento.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade6_paypaladpter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade6_paypalapi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Atividade7e8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Cafeteira.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Chuveiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Despertador.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Main_atv3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Main_atv6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/Main_atv9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia21/factory/ManhaFacade.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revisaosemana4/Exercicio1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revisaosemana4/Exercicio2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/revisaosemana4/Exercicio3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/dia09/Metodos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/dia09/Metodos.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +81,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3KQpzA0jyAWfQwmJyUy1ZCseDE0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -59,14 +93,20 @@
     "Application.Arraylist.executor": "Run",
     "Application.ContaBancaria.executor": "Run",
     "Application.Encapsulamento.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.Main_atv3.executor": "Run",
+    "Application.Main_atv9.executor": "Run",
+    "Application.Mainbebe.executor": "Run",
+    "Application.Mainpet.executor": "Run",
     "Application.Pet.executor": "Run",
     "Application.Petshop.executor": "Run",
+    "Application.dia21.Main.executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/queue",
+    "git-widget-placeholder": "feature/revisao-grupo",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -78,16 +118,17 @@
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Petshop">
-    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dia11.Arraylist" />
+  <component name="RunManager" selected="Application.Main_atv9">
+    <configuration name="Main_atv3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia21.factory.Main_atv3" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dia11.*" />
+          <option name="PATTERN" value="dia21.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +136,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dia14.ContaBancaria" />
+    <configuration name="Main_atv9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia21.factory.Main_atv9" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dia14.*" />
+          <option name="PATTERN" value="dia21.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +149,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dia14.Encapsulamento" />
+    <configuration name="Mainbebe" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia20.Mainbebe" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dia14.*" />
+          <option name="PATTERN" value="dia20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Revisaosemana3petshop.Pet" />
+    <configuration name="Mainpet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia21.atividade1factory.Mainpet" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Revisaosemana3petshop.*" />
+          <option name="PATTERN" value="dia21.atividade1factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -134,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Petshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Revisaosemana3petshop.Petshop" />
+    <configuration name="dia21.BancodeDados.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia21.BancodeDados.Main" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Revisaosemana3petshop.*" />
+          <option name="PATTERN" value="dia21.BancodeDados.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -149,11 +190,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Petshop" />
-        <item itemvalue="Application.Pet" />
-        <item itemvalue="Application.Encapsulamento" />
-        <item itemvalue="Application.ContaBancaria" />
-        <item itemvalue="Application.Arraylist" />
+        <item itemvalue="Application.Main_atv9" />
+        <item itemvalue="Application.Main_atv3" />
+        <item itemvalue="Application.Mainpet" />
+        <item itemvalue="Application.dia21.BancodeDados.Main" />
+        <item itemvalue="Application.Mainbebe" />
       </list>
     </recent_temporary>
   </component>
@@ -190,7 +231,21 @@
           <url>file://$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Petshop.java</url>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dia20/Main.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/dia21/factory/Main_atv9.java</url>
+          <line>2</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
