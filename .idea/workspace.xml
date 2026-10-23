@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974f2843-5b20-4de5-9b2b-253499cfe59c" name="Changes" comment="Criado classes novas dos dias 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Petshop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Revisaosemana3petshop/Servicos.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/dia14/Encapsulamento.java" afterDir="false" />
-    </list>
+    <list default="true" id="974f2843-5b20-4de5-9b2b-253499cfe59c" name="Changes" comment="Criado classes novas dos dias 1" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,7 +20,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="main" />
+        <entry key="$PROJECT_DIR$" value="feature/revisao-grupo" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -50,6 +45,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3KQpzA0jyAWfQwmJyUy1ZCseDE0" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -66,7 +64,7 @@
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "feature/queue",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.jshint": "true",
@@ -177,6 +175,10 @@
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Criado classes novas dos dias 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Criado classes novas dos dias 1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
