@@ -4,7 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="974f2843-5b20-4de5-9b2b-253499cfe59c" name="Changes" comment="Criado classes novas dos dias 1" />
+    <list default="true" id="974f2843-5b20-4de5-9b2b-253499cfe59c" name="Changes" comment="Criado classes novas dos dias 1">
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia23testes/CalculadoraSimples.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia24/Atv4_sistema_de_voo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia24/Atv5_Painel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia24/Atv6_estoque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/dia24/Observer_atv1_ao3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/dia23testes/CalculadoraSimplesTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,14 +21,18 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="JUnit5 Test Class" />
         <option value="Class" />
       </list>
     </option>
   </component>
+  <component name="Git.Merge.Settings">
+    <option name="BRANCH" value="origin/feature/revisao-grupo" />
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="feature/revisao-grupo" />
+        <entry key="$PROJECT_DIR$" value="main" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -52,40 +64,52 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.Arraylist.executor": "Run",
-    "Application.ContaBancaria.executor": "Run",
-    "Application.Encapsulamento.executor": "Run",
-    "Application.Pet.executor": "Run",
-    "Application.Petshop.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "codeWithMe.voiceChat.enabledByDefault": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.jshint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.jshint": "",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0",
-    "python.packages.toolwindow.project.migrated.to.right.top.v2": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Arraylist.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ContaBancaria.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Encapsulamento.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main_atv9.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Pet.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Petshop.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculadoraSimplesTest.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/tests&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
+    &quot;python.packages.toolwindow.project.migrated.to.right.top.v2&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Petshop">
-    <configuration name="Arraylist" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dia11.Arraylist" />
+}</component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="dia23testes" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Atv4_sistema_de_voo">
+    <configuration name="Atv4_sistema_de_voo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia24.Atv4_sistema_de_voo" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dia11.*" />
+          <option name="PATTERN" value="dia24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ContaBancaria" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dia14.ContaBancaria" />
+    <configuration name="Atv5_Painel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia24.Atv5_Painel" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dia14.*" />
+          <option name="PATTERN" value="dia24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Encapsulamento" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="dia14.Encapsulamento" />
+    <configuration name="Atv6_estoque" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia24.Atv6_estoque" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="dia14.*" />
+          <option name="PATTERN" value="dia24.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -119,12 +143,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Revisaosemana3petshop.Pet" />
+    <configuration name="Main_atv9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="dia21.factory.Main_atv9" />
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Revisaosemana3petshop.*" />
+          <option name="PATTERN" value="dia21.factory.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -132,26 +156,28 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Petshop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Revisaosemana3petshop.Petshop" />
+    <configuration name="CalculadoraSimplesTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="meu-projeto" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Revisaosemana3petshop.*" />
+          <option name="PATTERN" value="dia23testes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="dia23testes" />
+      <option name="MAIN_CLASS_NAME" value="dia23testes.CalculadoraSimplesTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Petshop" />
-        <item itemvalue="Application.Pet" />
-        <item itemvalue="Application.Encapsulamento" />
-        <item itemvalue="Application.ContaBancaria" />
-        <item itemvalue="Application.Arraylist" />
+        <item itemvalue="Application.Atv4_sistema_de_voo" />
+        <item itemvalue="Application.Atv6_estoque" />
+        <item itemvalue="Application.Atv5_Painel" />
+        <item itemvalue="JUnit.CalculadoraSimplesTest" />
+        <item itemvalue="Application.Main_atv9" />
       </list>
     </recent_temporary>
   </component>
